@@ -80,6 +80,7 @@ const otherUrls = {
 	'/profile/container_timeline': 'userHandler',					//用户主页
 	'/video/tiny_stream_video_list': 'nextVideoHandler',	//取消自动播放下一个视频
 	'/2/statuses/video_mixtimeline': 'nextVideoHandler',	
+	'/2/video/tiny_stream_video_list': 'nextVideoHandler',	
 	'/!/client/light_skin': 'tabSkinHandler',
 	'/littleskin/preview': 'skinPreviewHandler',
 	'/search/finder': 'removeSearchMain',
